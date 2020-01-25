@@ -99,4 +99,3 @@ Project Link: [https://github.com/sanjulamadurapperuma/StackOverflowTrendAnalysi
 [license-url]: https://github.com/sanjulamadurapperuma/StackOverflowTrendAnalysis/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sanjula-madurapperuma/
-[product-screenshot]: images/screenshot.png
