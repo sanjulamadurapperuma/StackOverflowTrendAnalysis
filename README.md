@@ -63,7 +63,7 @@ Learning.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what makes the open source community such an amazing place to be learn, inspire, and create. Any contributions you make to this project is **greatly appreciated**.
+Contributions are what makes the open source community such an amazing place to be learn, inspire, and create. Any contribution you make to this project is **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
