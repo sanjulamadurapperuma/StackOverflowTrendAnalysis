@@ -60,7 +60,6 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -158,7 +157,9 @@ Project Link: [https://github.com/sanjulamadurapperuma/StackOverflowTrendAnalysi
 
 
 <!-- ACKNOWLEDGEMENTS -->
+<!--
 ## Acknowledgements
+-->
 <!--
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
