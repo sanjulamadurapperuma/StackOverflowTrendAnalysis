@@ -1,4 +1,3 @@
-
 <!-- Project StackOverflowTrendAnalysis -->
 <!--
 *** This README uses markdown "reference style" links for readability.
@@ -7,14 +6,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -38,32 +36,32 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-
-
+- [About the Project](#about-the-project)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 <!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
-A project to analyze the tags present in StackOverflow and find trends and
-patterns in them, in addition to predicting future trends using Machine
+
+A project to analyze the tags present in StackOverflow and find out the trends and
+patterns associated with them. In addition to that, predicting future trends using Machine
 Learning.
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
-Contributions are what makes the open source community such an amazing place to be learn, inspire, and create. Any contribution you make to this project is **greatly appreciated**.
+Contributions make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
@@ -71,22 +69,22 @@ Contributions are what makes the open source community such an amazing place to 
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
-
 <!-- CONTACT -->
+
 ## Contact
 
 Sanjula Madurapperuma - [@s_arachchige](https://twitter.com/s_arachchige) - [Medium](https://medium.com/@sanjulamadurapperuma)
 
 Project Link: [https://github.com/sanjulamadurapperuma/StackOverflowTrendAnalysis](https://github.com/sanjulamadurapperuma/StackOverflowTrendAnalyis)
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/sanjulamadurapperuma/StackOverflowTrendAnalysis.svg?style=flat-square
 [contributors-url]: https://github.com/sanjulamadurapperuma/StackOverflowTrendAnalysis/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sanjulamadurapperuma/StackOverflowTrendAnalysis.svg?style=flat-square
