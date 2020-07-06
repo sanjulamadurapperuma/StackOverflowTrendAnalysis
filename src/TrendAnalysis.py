@@ -30,7 +30,7 @@ matplotlib.rcParams['xtick.labelsize'] = 12
 matplotlib.rcParams['ytick.labelsize'] = 12
 matplotlib.rcParams['text.color'] = 'k'
 
-path = '../data/StackOverflowTagsUpdated.csv'
+path = 'StackOverflowTagsUpdated.csv'
 
 data = pd.read_csv(path, parse_dates=['date'])
 # Dataset is now stored in a Pandas Dataframe
