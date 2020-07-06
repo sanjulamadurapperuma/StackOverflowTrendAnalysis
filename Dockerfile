@@ -2,13 +2,13 @@ FROM python:3.8
 
 MAINTAINER Sanjula Madurapperuma "developer.sanjula@gmail.com"
 
-ADD StackOverflowTagsUpdated.csv /
+ADD src/StackOverflowTagsUpdated.csv /
 
-ADD my_bow.csv /
+ADD src/my_bow.csv /
 
-ADD requirements.txt /
+ADD src/requirements.txt /
 
-ADD TrendAnalysis.py /
+ADD src/TrendAnalysis.py /
 
 RUN pip install -r requirements.txt
 
